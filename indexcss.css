@@ -1,0 +1,38 @@
+#chatBox {
+  width: 40%;
+  height: 400vh;
+  margin: 0 auto;
+
+}
+
+#myChatForm {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  float: center;
+  margin-left: -14px;
+
+}
+
+input[type="text"] {
+  width: 40%;
+  padding: 2px;
+  margin: 3px;
+}
+
+textarea {
+  width: 40%;
+  padding: 2px;
+  margin: 3px;
+}
+
+#sendMessageBtn {
+  width: 40%;
+}
+
+body {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://i.pinimg.com/originals/aa/65/14/aa651491d83cd460bc4bce102f964ba9.jpg");
+}
